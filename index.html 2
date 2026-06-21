@@ -1,1 +1,21 @@
-<!DOCTYPE html> <html lang="es"> <head> <meta charset="UTF-8"> <title>Acertijo</title> <style> body { font-family: Arial, sans-serif; text-align: center; margin-top: 50px; } </style> </head> <body> <h1>¡Felicidades! Ya vas por la mitad del acertijo.</h1> <p>Ahora, para descubrir el mensaje, debes hacer lo siguiente:</p> <p>1. Agarrá todos los números de la hoja y sumalos.</p> <p>2. Agregá el resultado al final de esta dirección:</p> <p><b>https://francobovio2011-byte.github.io/x/</b></p> <p>Donde <b>"x"</b> es la suma de los números.</p> <p>¡Eso te llevará a tu premio!</p> </body> </html>
+<!DOCTYPE html> 
+<html lang="es"> 
+<head> <meta charset="UTF-8"> 
+<title>Acertijo</title> 
+<style>
+body { font-family: Arial, sans-serif;
+text-align: center;
+margin-top: 50px; 
+}
+</style>
+</head>
+<body> 
+<h1>¡Felicidades! Ya vas por la mitad del acertijo.</h1> 
+<p>Ahora, para descubrir el mensaje, debes hacer lo siguiente:</p> 
+<p>1. Agarrá todos los números de la hoja y sumalos.</p> 
+<p>2. Agregá el resultado al final de esta dirección:</p> 
+<p><b>https://francobovio2011-byte.github.io/x/</b></p> 
+<p>Donde <b>"x"</b> es la suma de los números.</p> 
+<p>¡Eso te llevará a tu premio!</p> 
+</body> 
+</html>
